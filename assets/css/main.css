@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 	i {
-		font-size: 1.5em;
+		font-size: 1.8em;
 	}
 
 	p {
@@ -301,6 +301,16 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+	}
+
+	.project_links {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+	.project_description {
+		min-height: 9em;
 	}
 
 		.row > * {
@@ -1763,6 +1773,20 @@ input, select, textarea {
 		}
 
 /* Section/Article */
+	section i {
+		font-size: 2.7em;
+		color: none;
+		margin: 0 0.2em;
+	}
+
+	section a i {
+		font-size: 1.1em;
+	}
+
+	.icon_hover:hover {
+		color: #49bf9d;
+	}
+
 
 	section.special, article.special {
 		text-align: center;
@@ -2209,7 +2233,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 1.5em;
+				font-size: 1.8em;
 			}
 
 /* Labeled Icons */
