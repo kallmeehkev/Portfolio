@@ -303,6 +303,10 @@ input, select, textarea {
 		align-items: stretch;
 	}
 
+	.project_title {
+		font-size: 1.3em;
+	}
+
 	.project_links {
 		display: flex;
 		flex-direction: row;
@@ -311,7 +315,7 @@ input, select, textarea {
 
 	.project_description {
 		min-height: 9em;
-		font-size: 2vw;
+		font-size: 1em;
 	}
 
 
