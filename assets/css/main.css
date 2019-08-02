@@ -306,12 +306,14 @@ input, select, textarea {
 	.project_links {
 		display: flex;
 		flex-direction: row;
-		justify-content: space-between;
+		justify-content: space-around;
 	}
 
 	.project_description {
 		min-height: 9em;
+		font-size: 2vw;
 	}
+
 
 		.row > * {
 			box-sizing: border-box;
