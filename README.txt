@@ -1,4 +1,4 @@
-![Live](https://kallmeehkev.github.io/Portfolio/)
+[Live](https://kallmeehkev.github.io/Portfolio/)
 
 
 Strata by HTML5 UP
